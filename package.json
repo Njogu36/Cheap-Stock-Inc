@@ -1,0 +1,17 @@
+{
+  "name": "cheap-stock",
+  "version": "1.0.0",
+  "description": "Cheap Stock Command Line Application",
+  "main": "command.js",
+  "preferGlobal": true,
+  "bin": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evans Mburu Njogu",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "csvtojson": "^2.0.10"
+  }
+}
