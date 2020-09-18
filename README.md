@@ -35,8 +35,12 @@ cd Cheap-Stock-Inc
 Install the dependencies.
 ```bash
 npm install
-```
 
+```
+```bash
+npm link
+
+```
 
 
 ## Run 
